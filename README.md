@@ -2,11 +2,14 @@
 
 <h2>👨‍💻 Data Analyst & Data Science Projects:</h2>
 
-- <b>Machine Learning Project in Python</b>
-  - [Comparing Supervised Learning Performance](LINK)
+- <b>Machine Learning Project using Python</b>
+  - [Comparing Supervised Learning Performance](https://github.com/farhanulf/Project_1/blob/main/README.md)
 
   <b>Overview </b>
-  
+  - The project aims to identify the most effective model for predicting the desired outcome. The insights gained from this analysis can guide decision-making and provide valuable recommendations for future applications in similar domains.
+  - To ensure robust and reliable evaluations, cross-validation techniques are employed, dividing the data into multiple folds and performing model training and testing across different subsets.
+  - Involves a comprehensive analysis of multiple supervised learning models, including Logistic Regression, Decision Tree Classifier, and Random Forest.
+  - The project also considers data preprocessing steps, such as handling class imbalance and feature selection, to optimize the models' predictive capabilities.
 
 - <b>SQL Project</b>
   - [Click Per Minute](LINK)
