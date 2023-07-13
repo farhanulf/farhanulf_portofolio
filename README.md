@@ -12,7 +12,7 @@
   - The project also considers data preprocessing steps, such as handling class imbalance and feature selection, to optimize the models' predictive capabilities.
 
 - <b>SQL Project</b>
-  - [Click Per Minute](LINK)
+  - [Business Report](LINK)
  
   <b>Overview </b>
 
