@@ -3,7 +3,7 @@
 <h2>👨‍💻 Data Analyst & Data Science Projects:</h2>
 
 - <b>Machine Learning Project using Python</b>
-  - [Comparing Supervised Learning Performance](https://github.com/farhanulf/Project_1/blob/main/README.md)
+  - [Comparing Supervised Learning Performance](https://github.com/farhanulf/Machine-Learning-using-Python/tree/main#readme)
 
   <b>Overview </b>
   - The project aims to identify the most effective model for predicting the desired outcome. The insights gained from this analysis can guide decision-making and provide valuable recommendations for future applications in similar domains.
