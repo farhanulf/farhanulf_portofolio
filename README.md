@@ -1,4 +1,4 @@
-<h1>Hi, I'm Farhan! <br/> 
+<h1>Hi, nice to meet you !! I'm Farhan! <br/> 
 
 <h2>👨‍💻 Data Analyst & Data Science Projects:</h2>
 
