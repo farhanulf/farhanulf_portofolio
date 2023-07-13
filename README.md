@@ -12,11 +12,18 @@
   - The project also considers data preprocessing steps, such as handling class imbalance and feature selection, to optimize the models' predictive capabilities.
 
 - <b>SQL Project</b>
-  - [Business Report](LINK)
+  - [Business Report](https://github.com/farhanulf/Business_Report/tree/main#readme)
  
-  <b>Overview </b>
-
+  <b>Overview </b><br>
   
+  The objective of this project is to create a comprehensive business report for stakeholders that provides valuable insights and analysis. The report aims to offer a deep understanding of the company's operations and performance by utilizing data querying techniques, website performance analysis, and relevant financial metrics.
+
+  The project involves the following key aspects:
+  - Data Querying using the "Big 6" Statements and Clauses: The report utilizes SQL queries to extract essential information from the company's databases.
+  - Grouping by with Aggregate Functions: The report incorporates the use of GROUP BY and aggregate functions, such as SUM, COUNT, AVG, and MAX, to generate meaningful insights from the data.
+  - Querying Multiple Tables: In scenarios where data is distributed across multiple tables, the report employs SQL joins and appropriate query techniques to combine and analyze data from different sources.
+  - Analyzing Website Performance: The report includes an analysis of the company's website performance using relevant metrics, such as page load time, bounce rate, conversion rate, and user engagement.
+    
 - <b>Data Visualization using Tableau</b>
   - [Performance per State](LINK)
  
