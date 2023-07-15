@@ -25,9 +25,15 @@
   - Analyzing Website Performance: The report includes an analysis of the company's website performance using relevant metrics, such as page load time, bounce rate, conversion rate, and user engagement.
     
 - <b>Data Visualization using Tableau</b>
-  - [Performance per State](LINK)
+  - [Superstore Dashoard Report](https://github.com/farhanulf/Superstore_Dashoard#readme)
  
-  <b>Overview </b>
+  <b>Overview </b> <br>
+  
+  In this comprehensive Superstore Dashboard Report, we dive into various aspects of the company's performance and sales information to provide valuable insights. The report focuses on the following key areas:
+  - Analyzing the Growth of Sales and Profit in the Last 12 Months: A detailed examination of the sales and profit trends over the past year, identifying patterns, seasonal variations, and growth opportunities.
+  - Explaining the Company Sales Information: A comprehensive exploration of the company's sales data, including revenue, customer segments, product categories, and geographical distribution. This analysis aims to identify top-performing regions, bestselling products, and potential areas for improvement.
+  - Explaining Employee Performance in Sales: An in-depth analysis of employee-related sales data, such as individual performance, sales targets, incentives, and customer satisfaction metrics. This evaluation enables understanding the effectiveness of the sales team and provides insights for optimizing sales strategies.
+  - Analyzing Sales Performance in Relation to Employee Distribution per State: An evaluation of sales metrics in relation to the number of employees per state. This analysis uncovers potential correlations between workforce distribution and sales performance, assisting in resource allocation and identifying areas where additional sales support may be required.
 
   
   
