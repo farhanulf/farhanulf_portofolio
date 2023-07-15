@@ -1,4 +1,4 @@
-<h1>Hi, nice to meet you !! I'm Farhan! <br/> 
+<h1>Hi, nice to meet you, I'm Farhan! <br/> 
 
 <h2>👨‍💻 Data Analyst & Data Science Projects:</h2>
 
@@ -41,20 +41,20 @@
 
 <h2>📺 Certification</h2>
 
-- [Google Analyst Certificate]()
-- [DQ Lab Data Science Certificate ]()
+- [Google Analyst Certificate](https://drive.google.com/file/d/1T7GE3VoDLW6ND9I08JkKU5YJC5tNppgS/view?usp=sharing)
+- [DQ Lab Data Science Certificate ](https://drive.google.com/file/d/1kAJ3HWvzEIncW0J5q_lVxgCPetlV17xJ/view?usp=sharing)
+- [More](https://drive.google.com/drive/folders/1VIOhfRPkIRmDF19_zSgNoqMJVGZwHkcc?usp=sharing)
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" width="22px" src="https://github.com/farhanulf/farhanulf_portofolio/blob/main/whatsapp-svgrepo-com%20(1).svg" />][WhatsApp]
+[<img align="left" width="22px" src="https://github.com/farhanulf/farhanulf_portofolio/blob/main/linkedin-svgrepo-com.svg" />][linkedin]
+[<img align="left" width="22px" src="https://github.com/farhanulf/farhanulf_portofolio/blob/main/gmail-svgrepo-com.svg" />][Gmail]
 
-[twitter]: https://www.google.com
-[youtube]: https://www.google.com
-[instagram]: https://www.google.com
-[linkedin]: https://www.google.com
+
+[WhatsApp]: https://wa.me/6287771928103
+[Gmail]: mailto:farhanulf@gmail.com
+[linkedin]: https://www.linkedin.com/in/farhanulf
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
