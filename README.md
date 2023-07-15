@@ -12,7 +12,7 @@
   - The project also considers data preprocessing steps, such as handling class imbalance and feature selection, to optimize the models' predictive capabilities.
 
 - <b>SQL Project</b>
-  - <b>[Business Report](https://github.com/farhanulf/Business_Report/tree/main#readme)</b>
+  - <b>[Traffic Source Analysis](https://github.com/farhanulf/Business_Report/tree/main#readme)</b>
  
   <b>Overview </b><br>
   
