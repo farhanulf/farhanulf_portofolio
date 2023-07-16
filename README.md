@@ -41,7 +41,7 @@
 
 <h2>📺 Certification</h2>
 
-- [Google Analyst Certificate](https://drive.google.com/file/d/1T7GE3VoDLW6ND9I08JkKU5YJC5tNppgS/view?usp=sharing)
+- [Google Data Analytics Professional Certificate](https://drive.google.com/file/d/1T7GE3VoDLW6ND9I08JkKU5YJC5tNppgS/view?usp=sharing)
 - [DQ Lab Data Science Certificate ](https://drive.google.com/file/d/1kAJ3HWvzEIncW0J5q_lVxgCPetlV17xJ/view?usp=sharing)
 - [More](https://drive.google.com/drive/folders/1VIOhfRPkIRmDF19_zSgNoqMJVGZwHkcc?usp=sharing)
 
