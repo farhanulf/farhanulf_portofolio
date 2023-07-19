@@ -1,4 +1,12 @@
-<h1>Hi, nice to meet you, I'm Farhan! <br/> 
+<h1>Hi, nice to meet you, I'm Farhan!</h1>
+
+As a Math Master Teacher Coach with a rich background in the education sector, I have honed my problem-solving and critical thinking skills to empower students and fellow educators alike. With 3 years of experience in the Edu-tech industry. 
+
+I have embraced data analysis as a means to tell compelling stories and drive data-driven decision-making. Proficient in Python, SQL, Excel, and Tableau, I am dedicated to unraveling insights and empowering informed choices through the art of data analysis. My passion for transforming data into actionable intelligence drives me to excel in the field of data analytics and make a positive impact on diverse projects and teams.
+
+I get excited about opportunities where I get to turn data into invaluable insights that fuel the company's growth and development.
+
+I love connecting with new people, you can reach me at farhanulf@gmail.com or [WhatsApp](https://wa.me/6287771928103)
 
 <h2>👨‍💻 Data Analyst & Data Science Projects:</h2>
 
