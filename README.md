@@ -1,6 +1,6 @@
 <h1>Hi, nice to meet you, I'm Farhan!</h1>
 
-As a Math Master Teacher Coach with a rich background in the education sector, I have honed my problem-solving and critical thinking skills to empower students and fellow educators alike. With 3 years of experience in the Edu-tech industry. 
+As a former Math Master Teacher Coach with a rich background in the education sector, I have honed my problem-solving and critical thinking skills to empower students and fellow educators alike. With 3 years of experience in the Edu-tech industry. 
 
 I have embraced data analysis as a means to tell compelling stories and drive data-driven decision-making. Proficient in Python, SQL, Excel, and Tableau, I am dedicated to unraveling insights and empowering informed choices through the art of data analysis. My passion for transforming data into actionable intelligence drives me to excel in the field of data analytics and make a positive impact on diverse projects and teams.
 
@@ -11,10 +11,11 @@ I love connecting with new people, you can reach me at farhanulf@gmail.com or [W
 <h2>👨‍💻 Data Analyst & Data Science Projects:</h2>
 
 - <b>Machine Learning Project using Python</b>
-  - <b>[Comparing Supervised Learning Performance](https://github.com/farhanulf/Machine-Learning-using-Python/tree/main#readme)</b>
+  - <b>[Customer Churn Prediction](https://github.com/farhanulf/Machine-Learning-using-Python/tree/main#readme)</b>
 
   <b>Overview </b>
-  - The project aims to identify the most effective model for predicting the desired outcome. The insights gained from this analysis can guide decision-making and provide valuable recommendations for future applications in similar domains.
+  - The project aims to identify which customer are likely to leave a service.
+  - The insights gained from this analysis can guide decision-making and provide valuable recommendations for future applications in similar domains.
   - To ensure robust and reliable evaluations, cross-validation techniques are employed, dividing the data into multiple folds and performing model training and testing across different subsets.
   - Involves a comprehensive analysis of multiple supervised learning models, including Logistic Regression, Decision Tree Classifier, and Random Forest.
   - The project also considers data preprocessing steps, such as handling class imbalance and feature selection, to optimize the models' predictive capabilities.
